@@ -1,6 +1,0 @@
-['A', 'Kieran Nunn']
-['B', 'Nathan Scott']
-['C', 'Finley Bvourd']
-['F', 'Peyton Sawyer']
-['E', 'Lisa Massen']
-['A', 'Lebron Jame']
